@@ -10,11 +10,11 @@ This repository contains a PowerPoint presentation submitted for the 2024 Adobe 
 </br>
 **Conversion Points:** Key points on the website where conversions occur.
 
-Project Overview
+## Project Overview
 
 Using Adobe Analytics, this project analyzes real-time data directly from GM's website and provides critical visualizations of the company's digital footprint.
 
-Contents
+## Contents
 
 The presentation covers:
 
@@ -26,7 +26,7 @@ The presentation covers:
 </br>
 **Recommendations:** Suggestions for GM to increase conversions and boost digital sales through their website.
 
-Key Features
+## Key Features
 
 **Customer Journey Analysis:** Detailed insights into customer behavior and preferences.
 <br>
@@ -39,6 +39,6 @@ Key Features
 </br>
 **Real-Time Data:** Utilization of Adobe Analytics for real-time data analysis and visualization.
 
-Recommendations
+## Recommendations
 The presentation provides actionable recommendations for General Motors to enhance their website's effectiveness, ultimately aiming to increase digital sales and improve customer engagement.
 
